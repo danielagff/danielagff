@@ -2,7 +2,8 @@
 
 
 ## I'm Daniel Filho !!!
-A curious young man unraveling the world of technology
+
+<p color ="red">A strong man who has as main objective to be a good developer every day better</p>
 
 Full Stack Developer Jr
 
