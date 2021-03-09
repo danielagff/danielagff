@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Japa's lair!</h1><img align="right" src="https://i.imgur.com/Czj9hQz.gif" width="350"/>
+<h1 align="center">Welcome to Daniel's house</h1><img align="right" src="https://media.giphy.com/media/HoffxyN8ghVuw/giphy.gif" width="350"/>
 
 ## I'm Daniel Filho !!!
 A curious young man unraveling the world of technology
@@ -21,16 +21,14 @@ Full Stack Developer Jr
 
 ### Contact 
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/MaximoGui)](https://github.com/MaximoGui)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-m%C3%A1ximo/)](https://www.linkedin.com/in/guilherme-m%C3%A1ximo/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cochaiendo@gmail.com)](mailto:cochaiendo@gmail.com)<br>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielagff/)](https://www.linkedin.com/in/danielagff/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:daniel.agff@gmail.com)](mailto:daniel.agff@gmail.com)<br>
 
 ### Recent Activities ✨
 <center>
 <table>
   <tr>
-      <td><img align="left" padding-right="10px" src=https://github-readme-stats.vercel.app/api?username=MaximoGui&show_icons=true&theme=buefy></td>
-      <td><img align="left" padding-right="10px" src=https://github-readme-stats.vercel.app/api/top-langs/?username=MaximoGui&show_icons=true&theme=buefy&layout=compact></td>
+    
   </tr>  
 </table>
 </center>
@@ -38,18 +36,3 @@ Full Stack Developer Jr
 
 
 <p align="center">- Thanks for visiting.</p>
-<p align="center">- Enjoy it!! o/</p>
-<!--
-**Rubenscode/Rubenscode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
