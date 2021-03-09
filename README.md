@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Daniel's house</h1><img align="right" src="https://imgur.com/Gw4CmTg.gif" width="450" height="600"/>
+<h1 align="center">Welcome to Daniel's house</h1><img align="right" src="https://imgur.com/Gw4CmTg.gif" width="500" height="550"/>
 
 ## I'm Daniel Filho !!!
 A curious young man unraveling the world of technology
@@ -16,7 +16,6 @@ Full Stack Developer Jr
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?&style=plastic&logo=typescript&logoColor=white)
 
 ![Java Badge](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=plastic&logo=java&logoColor=white?logoWidth=40)
-![Docker Badge](https://img.shields.io/badge/Docker-0FAAFF.svg?&style=plastic&logo=docker&logoColor=white)
 ![Spring Badge](https://img.shields.io/badge/Spring%20-%236DB33F.svg?&style=plastic&logo=spring&logoColor=white)
 
 ### Contact 
