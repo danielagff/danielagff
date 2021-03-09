@@ -30,4 +30,4 @@ Full Stack Developer Jr
 
 
 
-<p align="center">- Thanks for visiting.</p>
+<h2 align="center">Thanks for visiting</h2>
