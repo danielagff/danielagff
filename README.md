@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Daniel's house</h1><img align="right" src="https://imgur.com/Gw4CmTg.gif" width="500" height="300"/>
+<h1 align="center">Welcome to Daniel's house</h1><img align="right" src="https://imgur.com/Gw4CmTg.gif" width="500" height="400"/>
 
 
 ## I'm Daniel Filho !!!
