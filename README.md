@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Daniel's house</h1><img align="right" src="https://imgur.com/Gw4CmTg" width="350"/>
+<h1 align="center">Welcome to Daniel's house</h1><img align="right" src="https://imgur.com/Gw4CmTg.gif" width="350"/>
 
 ## I'm Daniel Filho !!!
 A curious young man unraveling the world of technology
