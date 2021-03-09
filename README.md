@@ -3,7 +3,8 @@
 
 ## I'm Daniel Filho !!!
 
-<p style="red">A strong man who has as main objective to be a good developer every day better</p>
+<p>A strong man who has as main objective to be a good developer every day better</p>
+<p style="color:red">This is a paragraph.</p>
 
 Full Stack Developer Jr
 
