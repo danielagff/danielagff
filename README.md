@@ -24,14 +24,7 @@ Full Stack Developer Jr
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielagff/)](https://www.linkedin.com/in/danielagff/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:daniel.agff@gmail.com)](mailto:daniel.agff@gmail.com)<br>
 
-### Recent Activities ✨
-<center>
-<table>
-  <tr>
-    
-  </tr>  
-</table>
-</center>
+
 
 
 
